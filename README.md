@@ -3,7 +3,7 @@
 
 Создание ERwin модели
 <p aligment=center>
-  <img src="/assets/images/6Снимок.PNG">
+  <img src="/assets/images/7Снимок.PNG">
 </p>
 - init - инициализация базы данных для всех платформ
 <p aligment=center>
@@ -27,6 +27,6 @@
 </p>
 Результат
 <p aligment=center>
-  <img src="/assets/images/7Снимок.PNG">
+  <img src="/assets/images/6Снимок.PNG">
 </p>
 # Вывод: Была сделана практическая рабоат №2 которая вклбчает в себя создание таблиц, внесение данных, обновление таблиц и их удаление.
