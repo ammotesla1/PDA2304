@@ -1,16 +1,32 @@
-# pr2
+# Практичесхая работа №2
+## Создание таблиц и внесение в них данныз
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Создание ERwin модели
+<p aligment=center>
+  <img src="/accets/images/6Снимак.PNG">
+</p>
+- init - инициализация базы данных для всех платформ
+<p aligment=center>
+  <img src="/accets/images/Снимак.PNG">
+</p>
+- onCreateTable - создание таблиц 
+<p aligment=center>
+  <img src="/accets/images/2Снимак.PNG">
+</p>
+- onUpdateTable - обновление таблиц
+<p aligment=center>
+  <img src="/accets/images/4Снимак.PNG">
+</p>
+- onInitTable - заполнение таблиц данными
+<p aligment=center>
+  <img src="/accets/images/3Снимак.PNG">
+</p>
+- onDropDataBase - удаление базы данных 
+<p aligment=center>
+  <img src="/accets/images/5Снимак.PNG">
+</p>
+Результат
+<p aligment=center>
+  <img src="/accets/images/7Снимак.PNG">
+</p>
+# Вывод: Была сделана практическая рабоат №2 которая вклбчает в себя создание таблиц, внесение данных, обновление таблиц и их удаление.
